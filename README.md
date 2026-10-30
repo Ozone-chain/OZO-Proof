@@ -10,7 +10,7 @@ Instead of storing certificate documents, OZO Proof records only their
 cryptographic fingerprints (hashes) on the blockchain. The original
 certificate remains on the user's device.
 
-🌐 **Website:** https://ozoproof.com/\
+🌐 **Website:** https://ozoproof.com/
 🚀 **Application:** https://app.ozoproof.com/
 
 ------------------------------------------------------------------------
@@ -140,20 +140,6 @@ OZO Proof is available through its web application:
 
 Use the application to issue certificate proofs or verify an existing
 certificate.
-
-## Project Links
-
-  Resource             Link
-  -------------------- ---------------------------
-  Official Website     https://ozoproof.com/
-  Web Application      https://app.ozoproof.com/
-  Terms & Conditions   https://ozoproof.com/
-  Privacy Policy       https://ozoproof.com/
-
-## License
-
-No repository license information was provided here. Add a `LICENSE`
-file and update this section before treating the project as open source.
 
 ------------------------------------------------------------------------
 
